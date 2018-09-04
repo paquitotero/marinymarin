@@ -64,6 +64,10 @@ header {
 .subMenu a {
   margin-left: -10px;
 }
+.dead a {
+  font-size: 15px;
+  text-align: justify;
+}
 .subMenu:last-of-type {
   border-bottom-left-radius: 5px;
   border-bottom-right-radius: 5px;
@@ -76,6 +80,7 @@ header {
 .menu li {
   margin: 0 15px;
 }
+
 
 /*** Main ***/
 main {
