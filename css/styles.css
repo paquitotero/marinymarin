@@ -62,11 +62,7 @@ header {
   padding: 10px;
 }
 .subMenu a {
-  margin-left: -10px;
-}
-.dead a {
-  font-size: 15px;
-  text-align: justify;
+  padding: 0px;
 }
 .subMenu:last-of-type {
   border-bottom-left-radius: 5px;
@@ -76,6 +72,9 @@ header {
   background-color: #222222;
   display: block;
   position: absolute;
+}
+.subMenu li:hover {
+    background: grey;
 }
 .menu li {
   margin: 0 15px;
