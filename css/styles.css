@@ -94,6 +94,32 @@ main {
   width: -moz-fit-content;
   width: -webkit-fit-content;
 }
+.contact {
+  background-color: #cecdc9;
+}
+.contact ul {
+  display: block;
+  list-style: none;
+  margin: 0 auto;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  width: -moz-fit-content;
+  width: -webkit-fit-content;
+}
+.contact li {
+  color: #222222;
+}
+.contact a {
+  color: #222222;
+  text-decoration: none;
+}
+.contact a:hover {
+  color: #c1a081;
+  text-decoration: underline;
+}
+.contact a:active {
+  color: #cecdc9;
+}
 
 /***** Footer *****/
 footer {
