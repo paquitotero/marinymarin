@@ -121,6 +121,26 @@ main {
   color: #cecdc9;
 }
 
+/***** Slider *****/
+
+.slider {
+    list-style-type: none;
+    margin: 0 auto;
+    width: -moz-fit-content;
+    width: -webkit-fit-content;
+}
+.slide {
+    display: none;
+}
+
+.slide img {
+    height: 639px;
+}
+
+.visible {
+    display: block;
+}
+
 /***** Footer *****/
 footer {
   background-color: #222222;
