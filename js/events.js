@@ -11,7 +11,7 @@ function domSlider(idSlider) {
 
     let intervalId = setInterval(() => {
         nextNode.click();
-    }, 3000);
+    }, 2000);
 }
 
 domSlider('top-slider');
