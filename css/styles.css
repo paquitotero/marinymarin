@@ -133,10 +133,6 @@ main {
     display: none;
 }
 
-.slide img {
-    height: 639px;
-}
-
 .visible {
     display: block;
 }
