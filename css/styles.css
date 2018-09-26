@@ -121,8 +121,10 @@ main {
   color: #cecdc9;
 }
 .bottle {
-  color: white;
+  color: #c7a790;
   font-family: 'Oxygen', sans-serif;
+  margin-left: 287px;
+  margin-right: 275px;
 }
 
 /***** Slider *****/
