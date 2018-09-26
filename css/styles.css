@@ -120,6 +120,10 @@ main {
 .contact a:active {
   color: #cecdc9;
 }
+.bottle {
+  color: white;
+  font-family: 'Oxygen', sans-serif;
+}
 
 /***** Slider *****/
 
