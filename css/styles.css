@@ -125,7 +125,13 @@ main {
   font-family: 'Oxygen', sans-serif;
   margin-left: 287px;
   margin-right: 275px;
+  padding-top: 140px;
 }
+.reposado {
+  padding-bottom: 140px;
+}
+
+
 
 /***** Slider *****/
 
