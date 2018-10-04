@@ -87,6 +87,9 @@ main {
   grid-area: main;
   padding-bottom: var(--footerSize);
 }
+p {
+  padding-top: 50px;
+}
 .img {
   display: block;
   margin: 0 auto;
