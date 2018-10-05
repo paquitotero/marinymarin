@@ -104,8 +104,8 @@ p {
   display: block;
   list-style: none;
   margin: 0 auto;
-  padding-top: 60px;
   padding-bottom: 60px;
+  padding-top: 60px;
   width: -moz-fit-content;
   width: -webkit-fit-content;
 }
