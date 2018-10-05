@@ -104,8 +104,8 @@ p {
   display: block;
   list-style: none;
   margin: 0 auto;
-  padding-top: 60px;
   padding-bottom: 60px;
+  padding-top: 60px;
   width: -moz-fit-content;
   width: -webkit-fit-content;
 }
@@ -128,10 +128,18 @@ p {
   font-family: 'Oxygen', sans-serif;
   margin-left: 287px;
   margin-right: 275px;
+  padding-bottom: 140px;
   padding-top: 140px;
 }
-.reposado {
-  padding-bottom: 140px;
+.list1 {
+  list-style-type: none;
+}
+.list2 {
+  list-style-type: none;
+  padding-top: 50px;
+}
+.restrictions {
+  padding-top: 50px;
 }
 
 
