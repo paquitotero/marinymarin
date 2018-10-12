@@ -12,7 +12,6 @@
                        "foot  foot";
   grid-template-columns: 150px 1fr;
   grid-template-rows: 150px;
-
   width: 100%;
 }
 
@@ -137,11 +136,11 @@ p {
 .list2 {
   list-style-type: none;
   padding-top: 50px;
+  width: 100px;
 }
 .restrictions {
   padding-top: 50px;
 }
-
 
 
 /***** Slider *****/
@@ -158,6 +157,9 @@ p {
 
 .visible {
     display: block;
+}
+.wtf {
+  text-align: right;
 }
 
 /***** Footer *****/
